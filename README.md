@@ -1,4 +1,4 @@
-# HydrodealkylationProcessOperation
+# Hydro-dealkylation Process Operation
 
 ## Project Overview
 This work was completed as the final project for 10.10 Introduction to Chemical Engineering in Fall 2019. The motivation includes: 
